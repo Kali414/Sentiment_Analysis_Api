@@ -1,0 +1,8 @@
+Flask
+flask-cors
+opencv-python
+numpy
+python-dotenv
+transformers
+torch
+gunicorn
